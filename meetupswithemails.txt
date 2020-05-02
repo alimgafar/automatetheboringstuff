@@ -1,0 +1,49 @@
+https://www.meetup.com/techinmotionnyc/members/?sort=joined 12,018
+https://www.meetup.com/NYC-Open-Data/members/?sort=joined   7,372
+https://www.meetup.com/NYC-Technology-Startups/members/?sort=joined 5,525
+https://www.meetup.com/Byte-Academy-Finance-and-Technology-community/members/?sort=joined   5,444
+https://www.meetup.com/DataCouncil-AI-NYC-Data-Engineering-Science/members/?sort=joined 3,577
+https://www.meetup.com/NYC-Artificial-Intelligence-Machine-Learning/members/?sort=joined    1,654
+https://www.meetup.com/NYC-Game-Makers/members/?sort=joined 977
+https://www.meetup.com/Marketing-for-non-marketers-New-York/members/?sort=joined    649
+https://www.meetup.com/NYC-CockroachDB-User-Group/members/?sort=joined  370
+https://www.meetup.com/NYU-Data-Science-and-Analytics-Club/members/?sort=joined 528
+https://www.meetup.com/NY-FinTech/members/?sort=joined  10,811
+https://www.meetup.com/Analytics-Data-Science-by-Dataiku-NY/members/?sort=joined    5,808
+https://www.meetup.com/ZorkasFinTechs/members/?sort=joined  8,202
+https://www.meetup.com/njtech/members/?op=all&sort=joined   7,390
+
+MUST BE DONE ASAP
+https://www.meetup.com/New-York-MongoDB-User-Group/members/?sort=joined 6,575
+https://www.meetup.com/Hartford-MongoDB-Users-Group/members/?sort=joined 73
+https://www.meetup.com/Atlanta-MongoDB-User-Group/members/?sort=joined  654
+https://www.meetup.com/Philadelphia-MongoDB-User-Group/members/?sort=joined 421
+https://www.meetup.com/Boston-MongoDB-User-Group/members/?sort=joined   950
+https://www.meetup.com/Baltimore-MongoDB-Users-Group/members/?sort=joined   409
+https://www.meetup.com/Washington-DC-MongoDB-Users-Group/members/?sort=joined   1,327
+https://www.meetup.com/MongoRaleigh/members/?sort=joined    425
+https://www.meetup.com/Chicago-MongoDB-User-Group/members/?sort=joined  871
+https://www.meetup.com/Columbus-MongoDB-Meetup-Group/members/?sort=joined   71
+https://www.meetup.com/Minneapolis-Mongo-DB-User-Group/members/?sort=joined 424
+https://www.meetup.com/Dallas-mongoDB-Meetup/members/?sort=joined   1,339
+https://www.meetup.com/DublinMUG/members/?sort=joined   960
+https://www.meetup.com/sfomug/members/?sort=joined  3,149
+https://www.meetup.com/svpmug/members/?sort=joined  1,554
+https://www.meetup.com/Keizer-MongoDB-User-Group/members/?sort=joined   22
+https://www.meetup.com/Los-Angeles-MongoDB-User-Group/members/?sort=joined  739
+https://www.meetup.com/Portland-MongoDB-User-Group/members/?sort=joined 195
+https://www.meetup.com/MongoDB-San-Diego-Meetup/members/?sort=joined    330
+https://www.meetup.com/seattlemug/members/?sort=joined  408
+https://www.meetup.com/Utah-MongoDB-User-Group/members/?sort=joined 423
+https://www.meetup.com/boulder-denver-mongo/members/?sort=joined    615
+https://www.meetup.com/Austin-MongoDB-User-Group/members/?sort=joined   733
+https://www.meetup.com/Houston-MongoDB-User-Group-MUG/members/?sort=joined  344
+https://www.meetup.com/Frankfurt-Rhine-Main-MongoDB-User-Group/members/ 130
+https://www.meetup.com/MongoDBGlasgow/members/  61
+
+#member-list-card-id > div:nth-child(3) > div > ul > li.member-item--13183019.list-item.padding--top.padding--bottom.padding--right > div > div:nth-child(2) > div.flex.flex--row.flex--noGutters.flex--alignCenter > div > a
+#member-list-card-id > div:nth-child(3) > div > ul > li.member-item--13183019.list-item.padding--top.padding--bottom.padding--right > div > div:nth-child(2) > div.flex.flex--row.flex--noGutters.flex--alignCenter > div > a
+
+
+
+[ [ 'new-york-mongodb-user-group', 6,575 ], [ 'hartford-mongodb-users-group', 73 ], [ 'atlanta-mongodb-user-group', 654 ], [ 'philadelphia-mongodb-user-group', 421 ], [ 'boston-mongodb-user-group',  950 ], [ 'baltimore-mongodb-users-group',  409 ], [ 'washington-dc-mongodb-users-group',  1,327 ], [ 'mongoraleigh', 425 ], [ 'chicago-mongodb-user-group', 871 ], [ 'columbus-mongodb-meetup-group',  71 ], [ 'minneapolis-mongo-db-user-group', 424 ], [ 'dallas-mongodb-meetup',  1,339 ], [ 'dublinmug',  960 ], [ 'sfomug', 3,149 ], [ 'svpmug', 1,554 ], [ 'los-angeles-mongodb-user-group', 739 ], [ 'portland-mongodb-user-group', 195 ], [ 'mongodb-san-diego-meetup', 330 ], [ 'seattlemug', 408 ], [ 'utah-mongodb-user-group', 423 ], [ 'boulder-denver-mongo', 615 ], [ 'austin-mongodb-user-group',  733 ], [ 'houston-mongodb-user-group-mug', 344 ], [ 'frankfurt-rhine-main-mongodb-user-group', 130 ], [ 'mongodbglasgow', 61 ] ]
